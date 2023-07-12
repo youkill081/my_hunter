@@ -19,4 +19,4 @@ gameplay image:
 ![alt text](https://github.com/youkill081/my_hunter/blob/main/my_hunter_1.png)
 
 reloading image:
-![alt text](https://github.com/youkill081/my_hunter/blob/main/my_hunter_1.png)
+![alt text](https://github.com/youkill081/my_hunter/blob/main/my_hunter_2.png)
